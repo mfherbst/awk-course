@@ -1,0 +1,12 @@
+resources/data/money.csv
+resources/data/awk.csv
+resources/data/telephonelist
+resources/data/values.csv
+resources/testfile
+resources/gutenberg/download.sh
+resources/chem_output/qchem.out
+resources/matrices/lund_b.mtx
+resources/matrices/bcsstm01.mtx
+resources/matrices/3.mtx
+resources/digitfile
+resources/integers

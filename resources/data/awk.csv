@@ -1,0 +1,5 @@
+#dialect,year,authors
+awk,1977,"Alfred Aho, Peter Weinberger, Brian Kernighan"
+nawk,1985,"Brian Kernighan"
+mawk,1992,"Mike Brennan"
+gawk,1988,"Paul Rubin, Jay Fenlason, Richard Stallman"
