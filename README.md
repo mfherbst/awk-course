@@ -18,7 +18,7 @@ cd resources/gutenberg
 
 If you want a more fancy ``.bashrc`` configuration, e.g. a coloured
 output of grep or a colored command prompt, run the ``install.sh``
-script from the files_for_home directory.
+script from the [files_for_home/](files_for_home/) directory.
 ```
 cd files_for_home
 ./install.sh
