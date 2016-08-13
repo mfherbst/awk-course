@@ -4,6 +4,7 @@ Script, resources and example code for the course
 Ruprecht-Karls-Universität Heidelberg from 15th -- 17th August 2015.
 
 Included files:
+- [awk_course.pdf](awk_course.pdf): The main script
 - [LICENCE](LICENCE): Overview how files in this repository are licenced
 - [resources/](resources/): Data neccessary to run the examples and do the exercises.
 
