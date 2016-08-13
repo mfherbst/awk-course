@@ -10,7 +10,8 @@ Included files:
 
 ## Setup
 Before being able to do the Project Gutenberg-related exercises, you should
-run the script ``resources/gutenberg/download.sh`` from the ``resources/gutenberg`` directory, i.e.
+run the script ``resources/gutenberg/download.sh`` from the
+[resources/gutenberg/](resources/gutenberg/) directory, i.e.
 ```
 cd resources/gutenberg
 ./download.sh
