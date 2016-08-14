@@ -9,5 +9,5 @@ A misleading line+5
 
 empty
 19e-5 is not properly formatted either.
-1.5e+5da is not a scientific number
+1.5e+5da is a scientific number
 -1.34e+04
