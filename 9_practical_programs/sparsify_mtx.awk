@@ -13,12 +13,8 @@ function abs(a) {
 	}
 }
 
-# Print the first comment line, since
-# it contains some important information
-/^%%/ { print; next }
-
-# all others ignore
-/^%/ { next }
+# Print all comment lines
+/^%/ { print; next }
 
 # the first non-comment line is the shape of the matrix
 # interpret and store it:
@@ -29,9 +25,9 @@ shape_encountered == 0 {
 	nrows = $1
 	ncols = $2
 
-	# Note: The d, i.e. the number of non-zeros
-	# will change due to this program and is
-	# hence not kept
+	# Note: The d, i.e. the number of entries
+	# stored in the mtx file, will change due
+	# to this program and is hence not kept
 	next
 }
 

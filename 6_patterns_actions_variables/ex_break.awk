@@ -1,18 +1,21 @@
 #!/usr/bin/awk -f
 {
+	# Accumulate the divisors
+	divsum=0
 
-	isprime=1
+	# Loop over all numbers excluding the
+	# one we deal with:
 	n=$1
-	for (i=2; i*i < n; ++i) {
+	for (i=1; i < n; ++i) {
 		if (n % i == 0) {
-			isprime=0
-			break
+			divsum+=i
+			if (divsum > n) break
 		}
 	}
 
-	if (isprime) {
-		printf("%d is prime\n", n)
+	if (divsum == n) {
+		printf("%d is a perfect number\n",n)
 	} else {
-		printf("Smallest divisor of %d is %d\n", n,i)
+		printf("%d is not a perfect number\n",n)
 	}
 }
