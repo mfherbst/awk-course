@@ -1,5 +1,5 @@
 # Count number of lines with a as second character
-/.a/ { acount+= 1 }
+/^.a/ { acount+= 1 }
 
 # Count the number of lines containing 2
 /2/  { twocount++ }

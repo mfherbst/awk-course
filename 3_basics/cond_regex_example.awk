@@ -5,7 +5,7 @@
 	print "var matches /variable\\./ " (var ~ /variable\./)
 
 	# Use a regex variable
-	re="^S..e.*le\\.$"
+	re="le\\.$"
 	print "var matches re? " (var ~ re)
 	# Note: In order to precisely match the "." at the end of
 	# var we need to escape the ".", i.e. use "\.".
