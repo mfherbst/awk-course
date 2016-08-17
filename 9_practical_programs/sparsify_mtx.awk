@@ -45,6 +45,6 @@ END {
 	print(nrows,ncols,nnonzeros)
 
 	# Print all values:
-	for (i=1; i<nnonzeros; ++i)
+	for (i=1; i<=nnonzeros; ++i)
 		print(values[i])
 }
