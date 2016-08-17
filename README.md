@@ -28,5 +28,5 @@ Note that this will replace your current ``.bashrc`` and your
 current ``.profile`` in case these files exist.
 
 ## Course page
-Further information about the course
+The **solutions** to the exercises as well as some further information about the course
 can be found on the [course website](http://blog.mfhs.eu/teaching/introduction-to-awk-programming-2016/).
