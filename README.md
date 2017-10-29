@@ -1,7 +1,7 @@
 # Introduction to awk programming 2016
 Script, resources and example code for the course
 **Introduction to awk programming 2016** taking place at the
-Ruprecht-Karls-Universität Heidelberg from 15th -- 17th August 2015.
+Ruprecht-Karls-Universität Heidelberg from 15th -- 17th August 2016.
 
 Included files:
 - [awk_course.pdf](awk_course.pdf): The main course notes
@@ -30,3 +30,8 @@ current ``.profile`` in case these files exist.
 ## Course page
 The **solutions** to the exercises as well as some further information about the course
 can be found on the [course website](http://blog.mfhs.eu/teaching/introduction-to-awk-programming-2016/).
+
+## Citing
+If you use any of the script examples or the course notes,
+please cite my work:
+[![DOI](https://zenodo.org/badge/59674153.svg)](https://zenodo.org/badge/latestdoi/59674153)
