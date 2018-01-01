@@ -1,0 +1,10 @@
+To cite the awk course notes, please use:
+
+@Misc{AwkCourse2016,
+  author = {Michael F. Herbst},
+  title  = {Introduction to awk programming 2016},
+  month  = aug,
+  year   = {2016},
+  doi    = {10.5281/zenodo.1038522},
+  url    = {https://doi.org/10.5281/zenodo.1038522},
+}
