@@ -8,21 +8,26 @@ Included files:
 - [LICENCE](LICENCE): Overview how files in this repository are licenced
 - [resources/](resources/): Data neccessary to run the examples and do the exercises.
 
-## Court order to block access from Project Gutenberg in Germany
-As of 3rd March 2018 access to Project Gutenberg is blocked from Germany
+## Copyright of material from project Gutenberg
+From 3rd March 2018 till October 2021, access to Project Gutenberg was blocked in Germany
 due to a court order, see the
-[official statement from PGLAF](https://cand.pglaf.org/germany/index.html)
-(the organisation hosting Project Gutenberg) for details.
-This implies as a user with a German IP address you will be unable to use the
-download script mentioned below.
-Unfortunately many of the exercises depend on the books from Project Gutenberg
-and whilst it is possible to do them without the proper book files,
-the results might deviate.
-I am currently unaware of a good alternative to obtain the Project Gutenberg
-books in a simple way and I am unsure about the
-legal status regards hosting them myself.
-In the lack of time on my side the excercises will stay broken for now,
-which I very much regret.
+[official statement from PGLAF](https://cand.pglaf.org/germany/index.html). 
+As similar situations might occur in the future,
+It is up to you to verify the books used in this course are in the public domain. The following books are used:
+- Dracula by Bram Stoker
+- The Adventures of Tom Sawyer by Mark Twain
+- Adventures of Huckleberry Finn by Mark Twain
+- The Prince by Nicolo Machiavelli
+- Leaves of Grass by Walt Whitman
+- Emma by Jane Austen
+- Sense and Sensibility by Jane Austen
+- The Picture of Dorian Gray by Oscar Wilde
+- The Yellow Wallpaper by Charlotte Perkins Gilman
+- Grimms’ Fairy Tales by Jacob Grimm and Wilhelm Grimm
+- Metamorphosis by Franz Kafka
+- The Importance of Being Earnest -- A Trivial Comedy for Serious People by Oscar Wilde
+- The Divine Comedy -- The Vision of Hell, Purgatory and Paradise by Dante Alighieri
+- A Tale of Two Cities -- A Story of the French Revolution by Charles Dickens
 
 ## Setup
 Before being able to do the Project Gutenberg-related exercises, you should
